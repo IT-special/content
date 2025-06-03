@@ -1,0 +1,63 @@
+ERP System User Guide: Product and Customer Management
+1. Creating a New Product
+To create a new product in the ERP system:
+
+Navigate to Inventory > Products.
+
+Click on the Create button.
+
+Fill in the following fields:
+
+Product Name: A unique and clear name.
+
+Product Code (SKU): Identifier used in stock tracking.
+
+Product Category: Choose from raw materials, finished goods, etc.
+
+Unit of Measure: Define whether it's measured in pieces, kg, or liters.
+
+Sales Price: Define the default sales price.
+
+Cost Price: Enter the purchase or production cost.
+
+Inventory Tracking: Choose between FIFO, LIFO, or average costing.
+
+Optional fields:
+
+Product Image
+
+Barcode
+
+Supplier Info
+
+Click Save to add the product.
+
+2. Creating a New Customer
+To register a new customer:
+
+Navigate to Sales > Customers.
+
+Click on Create.
+
+Fill in the customer details:
+
+Customer Name
+
+Email Address
+
+Phone Number
+
+Address
+
+Customer Type: Individual or company
+
+(Optional) Set payment terms and credit limit.
+
+Save the customer record.
+
+3. Important Notes
+Ensure all mandatory fields are filled before saving.
+
+Use consistent naming conventions to avoid duplication.
+
+Only users with the "Product Manager" or "Sales Manager" role can perform these actions.
