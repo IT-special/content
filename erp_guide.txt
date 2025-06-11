@@ -1,63 +1,37 @@
-ERP System User Guide: Product and Customer Management
-1. Creating a New Product
-To create a new product in the ERP system:
+ÜRÜN TANIMLAMA
+1. Kullanıcı bilgileri ile sisteme giriş yapılır
+2. Sol tarafta yer alan menü ağacından “Stok Yönetimi > Tanım > Ürün Listesi”
+ekranına girilir.
+3. Yeni ürün tanımı yapılmak istendiğinde “+” iconuna veya sayfanın altında yer alan
+“Yeni Kayıt” butonuna tıklanır.
+4. Açılan yeni ürün ekleme ekranındaki alanlar doldurulur. 
 
-Navigate to Inventory > Products.
 
-Click on the Create button.
+ÜRÜNE AİT BARKOD TANIMLAMA
+1. Ürün Tanımının 2. aşaması olan barkod tanımı için ilgili ekranda “Ürün Barkod”
+alanına tıklanır.
+2. İlgili ürünün bir önceki alanda seçilen ana birimine ait barkod tanımlanması
+Zorunludur.
+3. Ana birime ait barkod tanımlandıktan sonra eğer ürüne ait farklı barkodlar ile
+takip yapılacak ise diğer birimler için de barkod tanımlanabilir.
 
-Fill in the following fields:
 
-Product Name: A unique and clear name.
+BİRİM ÇEVRİMLERİNİN TANIMLANMASI
+1. Ürün Tanımının 3. aşaması olan birim çevrimi tanımı için ilgili ekranda “Birim
+Çevrimi” alanına tıklanır.
+2. Stok kartı üzerinde, ürünün farklı birimlerde işlem görmesini ve bu birimlerin ana
+birime nasıl çevrileceğini tanımlamak amacıyla kullanılır. Böylece alış, satış, depo
+hareketleri gibi işlemlerde farklı birimlerle işlem yapılabilir, sistem otomatik olarak
+ana birime çevirir.
 
-Product Code (SKU): Identifier used in stock tracking.
 
-Product Category: Choose from raw materials, finished goods, etc.
-
-Unit of Measure: Define whether it's measured in pieces, kg, or liters.
-
-Sales Price: Define the default sales price.
-
-Cost Price: Enter the purchase or production cost.
-
-Inventory Tracking: Choose between FIFO, LIFO, or average costing.
-
-Optional fields:
-
-Product Image
-
-Barcode
-
-Supplier Info
-
-Click Save to add the product.
-
-2. Creating a New Customer
-To register a new customer:
-
-Navigate to Sales > Customers.
-
-Click on Create.
-
-Fill in the customer details:
-
-Customer Name
-
-Email Address
-
-Phone Number
-
-Address
-
-Customer Type: Individual or company
-
-(Optional) Set payment terms and credit limit.
-
-Save the customer record.
-
-3. Important Notes
-Ensure all mandatory fields are filled before saving.
-
-Use consistent naming conventions to avoid duplication.
-
-Only users with the "Product Manager" or "Sales Manager" role can perform these actions.
+TEDARİKÇİ ÜRÜNLERİ TANIMI
+1. Ürün Tanımının 5. aşaması olan Tedarikçi tanımı için ilgili ekranda “Tedarikçi”
+alanına tıklanır.
+2. Ürün üzerinde tedarikçi seçimi yaparak, ilgili ürünün hangi tedarikçilerden satın
+alınabileceğini belirlenir. Tanımı yapılmayan tedarikçilere, satınalma siparişi
+oluşturulurken bu ürün için sipariş verilemez.
+3. Ayrıca "Tedarikçi Ürün Tanımı" ekranından da aynı işlem yapılabilir. Bu ekrandan,
+belirli tedarikçi gruplarına veya ürün kategorilerine toplu tanım yapılabilir.
+4. Her iki yöntemle de, ürünün hangi tedarikçilerden tedarik edileceği sistem
+üzerinde kontrol altına alınır.
