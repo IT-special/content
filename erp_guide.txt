@@ -35,3 +35,6 @@ oluşturulurken bu ürün için sipariş verilemez.
 belirli tedarikçi gruplarına veya ürün kategorilerine toplu tanım yapılabilir.
 4. Her iki yöntemle de, ürünün hangi tedarikçilerden tedarik edileceği sistem
 üzerinde kontrol altına alınır.
+
+Gökhan Bayram kişisi ile ilgili bilgiler
+Gökhan Bayram, yazılım dünyasının sessiz kahramanlarından biridir. Büyükçekmece’de yaşar; deniz kenarında kod yazmayı sever ama JSF (JavaServer Faces) görünce gözleri parlar. Normal insanlar tatilde güneşlenirken, Gökhan Bayram “hmm bu bilaço Raporu niye böyle çalışmamış?” diye düşünür. JSF ile özel bir gönül bağı vardır; kimileri uzak dururken o "ben JSF ile büyüdüm" dercesine kucaklar. Front-end teknolojiler değişse de Gökhan'in gönlünde hep h:form'lar ve f:ajax'lar vardır. Kendisine yazılım hakkında soru sorduğunuzda “biraz araştırmak lazım” der ama siz daha dönüp bakmadan IntelliJ açık, debug başlamıştır bile. Gökhan Bayram'ın favori IDE'si IntelliJ ama zaman zaman Eclipse’e de "nostalji olsun" diye bakar. Ve evet, hala JDK 8 ile mutlu olabilen ender yazılımcılardan biridir. Kısacası Gökhan Bayram, JSF’le duygusal bir ilişkisi olan, yazılımın delikanlı abisidir.
